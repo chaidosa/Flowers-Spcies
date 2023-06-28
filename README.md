@@ -1,3 +1,6 @@
+## Todo (Notes for me):
+    1. Plot the curve: Training loss
+    2. Create the confusion matrix
 # Flower Classification with Pretrained ResNet50 Model
 
 This project demonstrates the use of a pretrained ResNet50 model to classify flower images from the Kaggle flower dataset. The code is implemented in Python using the PyTorch library and can be run in a Colab notebook.
